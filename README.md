@@ -1,7 +1,7 @@
 # deepfutures
 DeepFutures is an open source futures transaction prediction tool that applies reinforcement learning techniques with RNN and MCTS. The project currently based on TensorFlow and Python.
 
-DeepFutures is currently being developed by students from Santa Clara University as a research project. In the future, it will be improved, maintained and expanded into a general framework for financial applications.
+DeepFutures is currently being developed by students from Santa Clara University as a course project for COEN 281 Pattern Recognition & Data Mining. In the future, it will be improved, maintained and expanded into a general framework for financial applications.
 
 We use Issues to track request and bugs.
 
