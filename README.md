@@ -5,14 +5,13 @@ We use Issues to track request and bugs.
 
 If you want to contribute to the project, please contact current members, thank you!
 
-------------------------------------
 ## Requirements
 
 1. Jupyter Notebook
 2. Tensorflow
 3. Pandas
 4. Numpy
-_____________________________________
+
 ## Demo Run
 
 main.ipynb contains the demo for the current 0.1 version.
